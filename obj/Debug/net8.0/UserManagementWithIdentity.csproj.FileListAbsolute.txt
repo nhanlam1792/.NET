@@ -1,0 +1,9 @@
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.csproj.AssemblyReference.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.AssemblyInfoInputs.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.AssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.csproj.CoreCompileInputs.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.RazorAssemblyInfo.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net8.0\UserManagementWithIdentity.RazorAssemblyInfo.cs

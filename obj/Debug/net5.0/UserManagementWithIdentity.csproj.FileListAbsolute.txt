@@ -1,0 +1,462 @@
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\appsettings.Development.json
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\appsettings.json
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.StaticWebAssets.xml
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.exe
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.deps.json
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.runtimeconfig.json
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.runtimeconfig.dev.json
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.Views.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.Views.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Humanizer.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.AssemblyReference.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.AssemblyInfoInputs.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.AssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.CoreCompileInputs.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorAssemblyInfo.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorAssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.TagHelpers.input.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.TagHelpers.output.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorCoreGenerate.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorTargetAssemblyInfo.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorTargetAssemblyInfo.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.Views.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\scopedcss\bundle\UserManagementWithIdentity.styles.css
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.Manifest.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.Pack.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.UserManagementWithIdentity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.build.UserManagementWithIdentity.props
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementWithIdentity.props
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UserManagementWithIdentity.props
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.xml
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.CopyComplete
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\refint\UserManagementWithIdentity.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.pdb
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.genruntimeconfig.cache
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\ref\UserManagementWithIdentity.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Roles\_RoleForm.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\ManageRoles.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Add.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\OJT_KỲ 7_Fsoft\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\libman.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\appsettings.Development.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\appsettings.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\libman.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.StaticWebAssets.xml
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.exe
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.deps.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.runtimeconfig.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.runtimeconfig.dev.json
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.Views.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\UserManagementWithIdentity.Views.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Humanizer.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.AssemblyReference.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.GeneratedMSBuildEditorConfig.editorconfig
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.AssemblyInfoInputs.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.AssemblyInfo.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.CoreCompileInputs.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.MvcApplicationPartsAssemblyInfo.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorAssemblyInfo.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorAssemblyInfo.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.TagHelpers.input.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.TagHelpers.output.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorCoreGenerate.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Roles\Index.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Roles\_RoleForm.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Add.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\Users\ManageRoles.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorTargetAssemblyInfo.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.RazorTargetAssemblyInfo.cs
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.Views.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\scopedcss\bundle\UserManagementWithIdentity.styles.css
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.Manifest.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.Pack.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.UserManagementWithIdentity.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.build.UserManagementWithIdentity.props
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementWithIdentity.props
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.UserManagementWithIdentity.props
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\staticwebassets\UserManagementWithIdentity.StaticWebAssets.xml
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.csproj.CopyComplete
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\refint\UserManagementWithIdentity.dll
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.pdb
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\UserManagementWithIdentity.genruntimeconfig.cache
+E:\TEDU_OJT_2024\UserManagementWithIdentity\UserManagementWithIdentity\UserManagementWithIdentity\obj\Debug\net5.0\ref\UserManagementWithIdentity.dll
